@@ -261,7 +261,7 @@ async def daily_autolike():
                 )
 
                 embed.set_footer(
-                    text="DEVELOPED BY DIBOXE LEGIT"
+                    text="DEVELOPED BY OLD  SAJAN"
                 )
 
                 for ch_id in guild_channels:
