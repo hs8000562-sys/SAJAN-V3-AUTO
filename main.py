@@ -218,10 +218,11 @@ async def daily_autolike():
             try:
 
                 url = (
-                    f"your api url"
+                    f"https://sublike.thug4ff.com/like"
                     f"?uid={uid}"
                     f"&region={region.lower()}"
-                    f"&key=your api key"
+                    f"&key=diboxe9744737"
+                    f"&credits=viro"
                 )
 
                 async with session.get(
