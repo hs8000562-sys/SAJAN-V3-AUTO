@@ -17,7 +17,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 TOKEN = os.getenv("DISCORD_TOKEN")
-OWNER_IDS_STR = os.getenv("1389248077503664239")
+OWNER_IDS_STR = os.getenv("")
 API_URL = os.getenv("http://panel.thug4ff.xyz:6044/like?uid=2760139717&region=ag&key=diboxe9744737")
 
 if not TOKEN:
